@@ -379,7 +379,7 @@ input:checked ~ .bubble::after {
 
   color: #FFF;
 
-  background-color: var(--primary);
+  background-color: var(--dark);
 
   border-radius: 0.5rem;
 
